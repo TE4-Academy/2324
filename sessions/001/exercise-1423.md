@@ -1,4 +1,4 @@
-**1. Spara uppgifterna i webbläsarens `localStorage`:**
+**3. Spara uppgifterna i webbläsarens `localStorage`:**
 För att göra detta behöver du uppdatera när du lägger till, tar bort och markerar uppgifter för att spara listan till `localStorage`. Dessutom behöver du läsa in uppgifterna när sidan laddas.
 
 Lägg till följande kod i `läggTillUppgift`-funktionen, efter att du har lagt till en uppgift:
