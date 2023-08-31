@@ -1,5 +1,4 @@
-
-**2. Lägg till ett filter:**
+**1. Lägg till ett filter:**
 Lägg till dessa radioknappar i din HTML:
 ```html
 <label><input type="radio" name="filter" value="alla" checked onclick="filtreraUppgifter()"> Alla</label>
