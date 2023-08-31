@@ -58,9 +58,3 @@ function markeraKlar(button) {
 ```
 
 När detta är klart borde du ha en fungerande uppgiftshanterare där du kan lägga till uppgifter, markera dem som klara och ta bort dem.
-
-**Utmaning:** Lägga till följande funktioner:
-1. Lägg till ett filter för att visa alla uppgifter, bara klara uppgifter, eller bara ofärdiga uppgifter.
-2. Gör det möjligt för användaren att redigera en uppgift genom att klicka på den.
-3. Spara uppgifterna i webbläsarens `localStorage` så att de finns kvar även efter att sidan laddas om.
-
