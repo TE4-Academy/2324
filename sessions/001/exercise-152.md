@@ -70,4 +70,3 @@ För referens, titta gärna på länkarna i [Exercise 151](https://github.com/TE
 
    - **Uppgift:** Skapa en array med namnen på tre av dina vänner. Använd en `for`-loop för att skriva ut varje namn på en ny rad i konsolen.
 
-För varje uppgift kan du använda en webbläsares konsol eller en online-utvecklingsmiljö som JSFiddle eller CodePen för att skriva och testa din kod.
