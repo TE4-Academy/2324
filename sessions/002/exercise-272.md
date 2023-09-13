@@ -53,4 +53,5 @@
 - Tänk på eventuella förbättringar eller optimeringar du kan göra i din kod.
 
 ### TIPS
-Om du vill ha mer kodexempel och tips på vanliga fel mm, kolla [här](https://github.com/TE4-Academy/2324/edit/main/sessions/002/exercise-272x.md)
+Om du vill ha mer kodexempel och tips på vanliga fel mm, kolla [här](https://github.com/TE4-Academy/2324/blob/main/sessions/002/exercise-272x.md)
+
