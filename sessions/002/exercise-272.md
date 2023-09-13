@@ -1,4 +1,4 @@
-**Större Övningsuppgift: Skapa en webbaserad bokhandel med Node.js**
+## Övningsuppgift: Skapa en webbaserad bokhandel med Node.js
 
 **Mål:** Bygg en fullständig webbserver med CRUD-operationer för att hantera en bokhandels inventering. Användaren ska kunna lägga till, redigera, visa och ta bort böcker.
 
@@ -52,3 +52,5 @@
 - Gå igenom din kod och kontrollera eventuella fel eller buggar.
 - Tänk på eventuella förbättringar eller optimeringar du kan göra i din kod.
 
+### TIPS
+Om du vill ha mer kodexempel och tips på vanliga fel mm, kolla [här](https://github.com/TE4-Academy/2324/edit/main/sessions/002/exercise-272x.md)
